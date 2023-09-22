@@ -103,9 +103,9 @@ const listUnits = {
         }
     },
     unit2: {
-        write:"",
-        content:"",
-        video:"",
+        write:"bài 2 : tập hợp các số tự nhiên ",
+        content:"ở mấy bài này còn dễ ko cần làm bài tập ",
+        video:"https://www.youtube.com/embed/Gx_4-WMu_1o",
         works: {
             basic:"",
             medium:"",
@@ -113,9 +113,9 @@ const listUnits = {
         },
     },
     unit3: {
-        write:"",
-        content:"",
-        video:"",
+        write:"bài 3 : ghi các số tự nhiên",
+        content:"ở mấy bài này còn dễ ko cần làm bài tập ",
+        video:"https://www.youtube.com/embed/6qRmpe66m5M",
         works: {
             basic:"",
             medium:"",
@@ -123,9 +123,9 @@ const listUnits = {
         },
     },
     unit4: {
-        write:"",
-        content:"",
-        video:"",
+        write:"bài 4 : số phần tử của một tập hợp . tập hợp con",
+        content:"ở mấy bài này còn dễ ko cần làm bài tập ",
+        video:"https://www.youtube.com/embed/cw_5EiL2asY",
         works: {
             basic:"",
             medium:"",
@@ -133,19 +133,19 @@ const listUnits = {
         },
     },
     unit5: {
-        write:"",
-        content:"",
-        video:"",
+        write:"bài 5 : pháp cộng và phép nhân",
+        content:"nắm chắc vững phép cộng và phép nhân ",
+        video:"https://www.youtube.com/embed/zwzxlkhGwbE",
         works: {
-            basic:"",
+            basic:"https://quizizz.com/join?gc=82842991",
             medium:"",
             advanced:"",
         },
     },
     unit6: {
-        write:"",
+        write:"bài 6: phép trừ và phép chia",
         content:"",
-        video:"",
+        video:"https://www.youtube.com/embed/",
         works: {
             basic:"",
             medium:"",
@@ -153,9 +153,9 @@ const listUnits = {
         },
     },
     unit7: {
-        write:"",
+        write:"bài 7 : lũy thừa với số mũ tự nhiên, nhân 2 lũy thừa cùng cơ số",
         content:"",
-        video:"",
+        video:"https://www.youtube.com/embed/",
         works: {
             basic:"",
             medium:"",
@@ -163,9 +163,9 @@ const listUnits = {
         },
     },
     unit8: {
-        write:"",
+        write:"bài 8 : chia 2 lũy thừa cùng cơ số",
         content:"",
-        video:"",
+        video:"https://www.youtube.com/embed/",
         works: {
             basic:"",
             medium:"",
@@ -173,9 +173,9 @@ const listUnits = {
         },
     },
     unit9: {
-        write:"",
+        write:"bài 9 : thứ tự thực hiện phép tính",
         content:"",
-        video:"",
+        video:"https://www.youtube.com/embed/",
         works: {
             basic:"",
             medium:"",
@@ -183,9 +183,9 @@ const listUnits = {
         },
     },
     unit10: {
-        write:"",
+        write:"bài 10 : tính chất chia hết của một tổng",
         content:"",
-        video:"",
+        video:"https://www.youtube.com/embed/",
         works: {
             basic:"",
             medium:"",
@@ -193,9 +193,9 @@ const listUnits = {
         },
     },
     unit11: {
-        write:"",
+        write:"bài 11 : dấu hiệu chia hết cho 2 và 5",
         content:"",
-        video:"",
+        video:"https://www.youtube.com/embed/",
         works: {
             basic:"",
             medium:"",
@@ -203,9 +203,9 @@ const listUnits = {
         },
     },
     unit12: {
-        write:"",
+        write:"bài 12: dấu hiện chia hết cho 3,6 và 9",
         content:"",
-        video:"",
+        video:"https://www.youtube.com/embed/",
         works: {
             basic:"",
             medium:"",
@@ -213,7 +213,7 @@ const listUnits = {
         },
     },
     unit13: {
-        write:"",
+        write:"bài 13: ước và bội",
         content:"",
         video:"",
         works: {
